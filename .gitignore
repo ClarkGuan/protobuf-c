@@ -30,10 +30,12 @@
 TAGS
 protobuf-c/libprotobuf-c.pc
 protoc-c/protoc-c
+protoc-c/protoc-gen-c
 t/generated-code/test-generated-code
 t/generated-code2/cxx-generate-packed-data
 t/generated-code2/test-full-cxx-output.inc
 t/generated-code2/test-generated-code2
+t/generated-code3/test-generated-code3
 t/version/version
 *.pb-c.c
 *.pb-c.h
